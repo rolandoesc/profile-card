@@ -2,8 +2,8 @@
   --text-sm: 14px;
   --text-base: 16px;
   --text-large: 20px;
-  --font-base: 400;
-  --font-medium: 500;
+  --font-base: 200;
+  --font-medium: 400;
   --tw-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
   --tw-shadow-colored: 0 10px 15px -3px var(--tw-shadow-color), 0 4px 6px -4px var(--tw-shadow-color);
 }
@@ -104,7 +104,7 @@ body {
   padding-bottom: 8px;
   width: 100%;
   border-radius: 4px;
-  margin: 0 0 16px 0;
+  margin: 0 0 24px 0;
   font-weight: var(--font-medium);
 }
 
